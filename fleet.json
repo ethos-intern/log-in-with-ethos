@@ -1,0 +1,21 @@
+{
+  "$schema": "https://fleet.beta.ethos.network/schema/fleet.json",
+  "name": "log-in-with-ethos",
+  "title": "Log In With Ethos",
+  "description": "Example app to show how to enable login with Ethos via Privy",
+  "status": "active",
+  "owner": "[OWNER EMAIL]",
+  "repo": "trust-ethos/log-in-with-ethos",
+  "urls": [
+    "https://login-example.ethos.network",
+    "https://log-in-with-ethos.ethos.deno.net"
+  ],
+  "access": "public",
+  "services": [],
+  "secrets": [],
+  "spend": {
+    "fixed": []
+  },
+  "notes": "",
+  "tags": []
+}
